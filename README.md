@@ -1,10 +1,19 @@
-- 👋 beleza rapaziadinha sou @yurizinho800
-- 👀 atualmente estudo ciberseguraça ...
-- 🌱 penso em talvez evoluir minha ideia aqui dentro ...
-- 💞️ preciso de collaborated ...
-- 📫 pode chamar em https://www.facebook.com/profile.php?id=100093151910075 ...
-- 😄 Pronouns: eu sou um mano de responsabilidade...
-- ⚡ Fun fact: mande sua ideia inovadora vamos construir um futuro grandioso...
+# Olá, eu sou Yuri 👋
+
+💻 Desenvolvedor focado em Python e segurança em Linux/Termux  
+🚀 Crio ferramentas simples e práticas para iniciantes  
+📂 Confira meus projetos fixados abaixo!  
+
+### Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yurizinho800&show_icons=true&theme=radical)
+
+### Principais projetos
+- 🔧 Ferramentas para Kali Linux e Termux
+- 📐 Scripts de cálculos em Python
+- ⚙️ Configurações e personalizações
+
+---
+✨ Sempre aberto a feedback e colaboração!
 
 <!---
 yurizinho800/yurizinho800 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
