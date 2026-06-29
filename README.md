@@ -19,6 +19,4 @@
 ![GitHub stars](https://img.shields.io/github/stars/yurizinho800?label=Stars&style=social)
 ![GitHub repo size](https://img.shields.io/github/repo-size/yurizinho800/ferramentas)
 
-yurizinho800/yurizinho800 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
