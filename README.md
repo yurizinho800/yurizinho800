@@ -7,7 +7,8 @@
 📂 Confira meus projetos fixados abaixo!  
 
 ### Estatísticas
-![Estatísticas do GitHub](https://vercel.app)
+![Github stats](https://github-readme-stats.vercel.app/api?username=yurizinho800&show_icons=true&theme=radial)
+
 
 
 ### Principais projetos
