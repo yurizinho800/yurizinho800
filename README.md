@@ -27,6 +27,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/yurizinho800?style=social)
 ### 🌐 Tecnologias que uso
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cisco.svg" width="40" height="40">
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+
 
 
