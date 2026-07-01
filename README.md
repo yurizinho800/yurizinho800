@@ -22,5 +22,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=yurizinho800&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/yurizinho800?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/yurizinho800?style=social)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurizinho800&layout=compact&theme=radical)
+![Cisco](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/brands/cisco.svg)
+
 
