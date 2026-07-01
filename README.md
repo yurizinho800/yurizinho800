@@ -7,7 +7,8 @@
 📂 Confira meus projetos fixados abaixo!  
 
 ### Estatísticas
-![Github stats](https://github-readme-stats.vercel.app/api?username=yurizinho800&show_icons=true&theme=radial)
+![Github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yurizinho800&show_icons=true&theme=radial)
+
 
 
 
