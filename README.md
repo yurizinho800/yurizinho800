@@ -6,6 +6,7 @@
 
 ### Estatísticas
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yurizinho800&show_icons=true&theme=radical)
+
 ### Principais projetos
 - 🔧 Ferramentas para Kali Linux e Termux
 - 📐 Scripts de cálculos em Python
