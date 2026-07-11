@@ -9,12 +9,6 @@
 
 https://github.com/yurizinho800
 
-### Estatísticas
-![Github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yurizinho800&show_icons=true&theme=radial)
-
-
-
-
 ### Principais projetos
 - 🔧 Ferramentas para Kali Linux e Termux
 - 📐 Scripts de cálculos em Python
