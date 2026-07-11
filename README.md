@@ -6,7 +6,7 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cisco.svg" width="40" height="40">
 🚀  ferramentas simples e práticas para iniciantes  
 📂 Confira meus projetos fixados abaixo!  
-
+https//https://github.com/yurizinho800
 ### Estatísticas
 ![Github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yurizinho800&show_icons=true&theme=radial)
 
