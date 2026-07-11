@@ -4,7 +4,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cisco.svg" width="40" height="40">
-🚀 Crio ferramentas simples e práticas para iniciantes  
+🚀  ferramentas simples e práticas para iniciantes  
 📂 Confira meus projetos fixados abaixo!  
 
 ### Estatísticas
