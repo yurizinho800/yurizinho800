@@ -11,7 +11,7 @@ https://github.com/yurizinho800
 
 ### Principais projetos
 - 🔧 Ferramentas para Kali Linux e Termux
-- 📐 Scripts de cálculos em Python
+- novo projeto em c++
 - ⚙️ Configurações e personalizações
 
 ---
