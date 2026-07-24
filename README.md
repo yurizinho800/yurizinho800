@@ -12,7 +12,7 @@ https://github.com/yurizinho800
 ### Principais projetos
 - 🔧 Ferramentas para Kali Linux e Termux
 - novo projeto em c++
-- ⚙️ Configurações e personalizações
+- bot para facebook
 
 ---
 ✨ Sempre aberto a feedback e colaboração!
