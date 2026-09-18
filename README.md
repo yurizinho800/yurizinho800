@@ -5,12 +5,10 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cisco.svg" width="40" height="40">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=yurizinho800&layout=donut&langs_count=11&theme=cobalt)](https://github-stats-extended.vercel.app/api/top-langs?username=yurizinho800&layout=donut&langs_count=11&theme=cobalt)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=yurizinho800&layout=donut&langs_count=10&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=yurizinho800&layout=donut&langs_count=10&theme=chartreuse-dark)
 
 🚀  ferramentas simples e práticas para iniciantes  
 📂 Confira meus projetos fixados abaixo! 
-
-https://github.com/yurizinho800
 
 ### Principais projetos
 - 🔧 Ferramentas para Kali Linux e Termux
@@ -22,9 +20,9 @@ https://github.com/yurizinho800
 
 ✨ Sempre aberto a feedback e colaboração!
 
-[GitHub followers](https://img.shields.io/github/followers/yurizinho800?label=Seguidores&style=social)
+![GitHub followers](https://img.shields.io/github/followers/yurizinho800?label=Seguidores&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/yurizinho800?label=Stars&style=social)
-![GitHub repo size](https://img.shields.io/github/repo-size/yurizinho800/ferramentas)
+![GitHub repo size](https://img.shields.io/github/repo-size/yurizinho800/ferramentas?color=green)
 
 ![Profile views](https://komarev.com/ghpvc/?username=yurizinho800&color=green)
 ![GitHub followers](https://img.shields.io/github/followers/yurizinho800?style=social)
