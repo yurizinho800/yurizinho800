@@ -11,9 +11,9 @@
 📂 Confira meus projetos fixados abaixo! 
 
 ### Principais projetos
-- 🔧 Ferramentas para Kali Linux e Termux
-- novo projeto em c++
-- bot para facebook
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=yurizinho800&repo=yurizinho800%2Fferramentas&show_owner=true&theme=shadow_green)](https://github.com/yurizinho800/ferramentas)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=yurizinho800&repo=yurizinho800%2Fciscopackttrace&show_owner=true&theme=shadow_green)](https://github.com/yurizinho800/ciscopackttrace)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=yurizinho800&repo=yurizinho800%2Fthefaceofbook&show_owner=true&theme=shadow_green)](https://github.com/yurizinho800/thefaceofbook)
 
 ---
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yurizinho800&custom_title=Minhas%20%20Estat%C3%ADstica&show_icons=true&include_all_commits=true&theme=shadow_green)](https://github-stats-extended.vercel.app/api?username=yurizinho800&custom_title=Minhas%20%20Estat%C3%ADstica&show_icons=true&include_all_commits=true&theme=shadow_green)
