@@ -15,6 +15,8 @@ https://github.com/yurizinho800
 - bot para facebook
 
 ---
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yurizinho800&custom_title=Minhas%20%20Estat%C3%ADstica&show_icons=true&include_all_commits=true&theme=shadow_green)](https://github-stats-extended.vercel.app/api?username=yurizinho800&custom_title=Minhas%20%20Estat%C3%ADstica&show_icons=true&include_all_commits=true&theme=shadow_green)
+
 ✨ Sempre aberto a feedback e colaboração!
 
 [GitHub followers](https://img.shields.io/github/followers/yurizinho800?label=Seguidores&style=social)
