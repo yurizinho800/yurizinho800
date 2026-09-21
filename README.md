@@ -7,7 +7,7 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=yurizinho800&layout=donut&langs_count=10&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=yurizinho800&layout=donut&langs_count=10&theme=chartreuse-dark)
 
-🚀  ferramentas simples e práticas para iniciantes  
+✅  ferramentas simples e práticas para iniciantes  
 📂 Confira meus projetos fixados abaixo! 
 
 ### Principais projetos
