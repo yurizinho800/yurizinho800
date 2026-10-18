@@ -12,7 +12,7 @@
 
 ### Principais projetos
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=yurizinho800&repo=yurizinho800%2Fferramentas&show_owner=true&theme=shadow_green)](https://github.com/yurizinho800/ferramentas)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=yurizinho800&repo=yurizinho800%2Ffrramenta&show_owner=true&theme=shadow_green)](https://github.com/yurizinho800/ferramenta)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=yurizinho800&repo=yurizinho800%2Fferramenta&show_owner=true&theme=shadow_green)](https://github.com/yurizinho800/ferramenta)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=yurizinho800&repo=yurizinho800%2Fthefaceofbook&show_owner=true&theme=shadow_green)](https://github.com/yurizinho800/thefaceofbook)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=yurizinho800&repo=yurizinho800%2Fwordslist&show_owner=true&theme=shadow_green)](https://github.com/yurizinho800/wordslist)
 ---
